@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/129526458?s=400&u=bb064894a2ebdfe2a0732bff9595b6412b81fb3d&v=4" alt="Your Organization Logo" width="200"/>
 </p>
 
-# 🚀 Welcome to [Your Organization Name]!
+# 🚀 Welcome to TechronMM!
 
 We are a group of passionate and dynamic software developers from Myanmar, dedicated to creating cutting-edge apps and projects. Our team specializes in movie apps, mobile app development with Kotlin and Flutter, and building powerful backend systems using the latest technology stacks.
 
