@@ -4,13 +4,13 @@ Welcome to the TechronMM GitHub repository! We are a team of highly skilled and 
 
 ## Meet the Team
 
-![TechronMM Team](images/team.jpg)
+![TechronMM Team](https://avatars.githubusercontent.com/u/129526458)
 
 Meet our fantastic team members who work passionately to bring your projects to life:
 
 ### 1. Khant-Nyar
 
-![Khant-Nyar](images/khant-nyar.jpg)
+![Khant-Nyar](https://avatars.githubusercontent.com/u/61083917)
 
 - Expertise: Laravel, Vue.js, React
 - Bio: Khant-Nyar is a frontend and backend wizard, with a knack for crafting elegant and efficient web applications.
