@@ -29,7 +29,7 @@ The Movie App is our pride and joy, a feature-rich platform for movie lovers. It
 - 📅 Release schedules
 - 🌐 Multi-language support
 
-You can explore the [Movie App Repository](https://github.com/yourorg/movie-app) for more details.
+You can explore the [Movie App Repository](https://github.com/techronmm) for more details.
 
 ## 🌍 We Welcome Collaboration
 
@@ -37,9 +37,6 @@ We're open to collaboration and exploring new opportunities. If you have a proje
 
 ## 📞 Get in Touch
 
-- Email: contact@yourorganization.com
-- Twitter: [@yourorganization](https://twitter.com/yourorganization)
-- LinkedIn: [Your Organization](https://www.linkedin.com/company/yourorganization)
-- Website: [www.yourorganization.com](https://www.yourorganization.com)
+- Email: [contact@techronmm.tech](khantnyar.devn@gmail.com)
 
 Thanks for stopping by! Let's innovate, collaborate, and build the future together. 🌟
